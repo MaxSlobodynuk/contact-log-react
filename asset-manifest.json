@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contact-log-react/static/css/main.7acaea2f.css",
+    "main.js": "/contact-log-react/static/js/main.a7b4c88f.js",
+    "index.html": "/contact-log-react/index.html",
+    "main.7acaea2f.css.map": "/contact-log-react/static/css/main.7acaea2f.css.map",
+    "main.a7b4c88f.js.map": "/contact-log-react/static/js/main.a7b4c88f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.a7b4c88f.js"
+  ]
+}
