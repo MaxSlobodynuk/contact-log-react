@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/contact-log-react/static/css/main.7acaea2f.css",
-    "main.js": "/contact-log-react/static/js/main.3f354de6.js",
+    "main.js": "/contact-log-react/static/js/main.4dfdd3e5.js",
     "index.html": "/contact-log-react/index.html",
     "main.7acaea2f.css.map": "/contact-log-react/static/css/main.7acaea2f.css.map",
-    "main.3f354de6.js.map": "/contact-log-react/static/js/main.3f354de6.js.map"
+    "main.4dfdd3e5.js.map": "/contact-log-react/static/js/main.4dfdd3e5.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.3f354de6.js"
+    "static/js/main.4dfdd3e5.js"
   ]
 }
